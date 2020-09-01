@@ -1,1 +1,2 @@
-Input 
+
+print ("hello world ") 
